@@ -3,7 +3,7 @@
   tags: ["til","ecto"],
   published: true,
   discussion_url: "",
-  description: ""
+  description: """
   Ecto Associations
   """
 }
