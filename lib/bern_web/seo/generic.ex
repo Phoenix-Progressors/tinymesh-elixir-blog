@@ -6,5 +6,5 @@ defmodule BernWeb.SEO.Generic do
   """
 
   defstruct description: "A blog about learnings",
-            title: "Abhishek Tripathi's Blog"
+            title: "Tinymesh's Elixir Blog"
 end
