@@ -1,13 +1,13 @@
 # fly.toml file generated for abhishek on 2022-03-29T08:53:00+05:30
 
-app = "abhishek"
+app = "tinymesh-blog"
 
 kill_signal = "SIGTERM"
 kill_timeout = 5
 processes = []
 
 [env]
-  PHX_HOST = "abhishek.fly.dev"
+  PHX_HOST = "tinymesh-blog.fly.dev"
   PORT = "8080"
 
 [experimental]
