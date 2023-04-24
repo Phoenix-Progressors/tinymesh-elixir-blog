@@ -3,9 +3,11 @@
   tags: ["ecto_query","dynamic","ecto"],
   published: true,
   discussion_url: "https://hexdocs.pm/ecto/dynamic-queries.html",
-  description: """The query which generates dynamically according to conditions"""
-  
+  description: """
+  The query which generates dynamically according to conditions
+  """  
 }
+---
 
 ### Dynamic queries
 
